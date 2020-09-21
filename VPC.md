@@ -2,9 +2,8 @@
 ## Create VPC
 #### CIDR Block Adress Allowcation
 ```
-    Here I'm Taking VPC CIDR > 10.4.0.0/16
-	And Public  Subnet CIDR  > 10.4.1.0/24
-	And Private Subnet CIDR  > 10.4.2.0/24	
+Here I'm Taking VPC CIDR > 10.4.0.0/16
+ And Public  Subnet CIDR  > 10.4.1.0/24
 ```
  
 #### For Creating VPC We Have to Follow Below Steps 
